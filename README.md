@@ -14,7 +14,7 @@ Solutions for 11 diverse Kaggle competitions, achieving competitive rankings:
 - Competition performance metrics
 - Domains include: house price prediction, blood glucose prediction, NLP, and more
 
-For detailed analysis, benchmarking results, and comparison with other AutoML frameworks, check out our [comprehensive blog post](https://plexe.ai/resources/plexe-results).
+For detailed analysis, benchmarking results, and comparison with other AutoML frameworks, check out our [comprehensive blog post](https://www.plexe.ai/post/plexe-production-ready-custom-ai-from-natural-language).
 
 ## What's Next
 We're actively working on making Plexe even better:
@@ -25,6 +25,8 @@ We're actively working on making Plexe even better:
 
 ## Join the Beta
 Plexe will be available for beta testing soon! [Sign up here](https://plexe.ai) to be among the first to try it out and help shape its development.
+
+Alternatively, you can join our Discord server where you can request us to create a model for you, and within a few hours we'll send you the model code along with a detailed report of the solutions considered and performance metrics. Currently, this will be limited to smaller and structured datasets only but we will soon be adding support for more complex architectures and larger datasets soon!
 
 ## License
 
